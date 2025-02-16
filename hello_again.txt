@@ -1,0 +1,4 @@
+This is the second file i create, just to train myself to use git commands
+First you modify the file, then you put it in stage mode (waiting room),
+then you commit with a message (still in your local clone of the repo). When you are done,
+you push it to the online origin main
